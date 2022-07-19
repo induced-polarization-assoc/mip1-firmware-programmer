@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MAX14850AEE_)(type Legacy)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/MAX14850AEE_.lib)(options "")(descr ""))
+  (lib (name MAX14851-PLUS)(type Legacy)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/MAX14851-PLUS.lib)(options "")(descr ""))
+  (lib (name MAX14930DAWE_PLUS)(type Legacy)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/MAX14930DAWE_PLUS.lib)(options "")(descr ""))
+)

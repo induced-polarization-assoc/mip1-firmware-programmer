@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MAX14850AEE&plus_)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/MAX14850AEE&plus_.pretty)(options "")(descr ""))
+  (lib (name MAX14851-PLUS)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/MAX14851-PLUS.pretty)(options "")(descr ""))
+  (lib (name MAX14930DAWE_PLUS)(type KiCad)(uri ${KICAD_USER_SYMBOL_DIR}/digital-isolators/MAX14930DAWE_PLUS.pretty)(options "")(descr ""))
+)
